@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "I going to sleep"
+echo "I am going to sleep"
 
 sleep 36000
